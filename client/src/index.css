@@ -75,3 +75,15 @@ body {
   color: red;
   text-align: center;
 }
+.h2title {
+  text-align: center;
+}
+.editForm {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin-left: 35%;
+}
+input {
+  margin-bottom: 4%;
+}
